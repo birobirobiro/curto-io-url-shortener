@@ -20,7 +20,7 @@
       "name": "accessToken",
       "type": "password",
       "required": true,
-      "title": "Access Token",
+      "title": "API Key",
       "description": "Your curto.io access token.",
       "placeholder": "Can be found at https://curto.io/profile/developer"
     }
