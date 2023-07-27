@@ -21,7 +21,7 @@
       "type": "password",
       "required": true,
       "title": "API Key",
-      "description": "Your curto.io access token.",
+      "description": "Your curto.io API Key.",
       "placeholder": "Can be found at https://curto.io/profile/developer"
     }
   ],
